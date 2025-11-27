@@ -1,0 +1,25 @@
+beautifulsoup4
+lxml
+requests
+Scrapy
+urllib3
+robotparser
+schedule
+pandas
+numpy
+scrapy-rotating-proxies
+user-agent-rotator
+pysocks
+brotli
+pyopenssl
+feedparser
+cssselect
+parsel
+w3lib
+playwright
+selenium
+pyppeteer
+PyQuery
+dataset
+more-itertools
+ APScheduler
